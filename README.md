@@ -51,7 +51,7 @@ Certifique-se de ter um servidor MySQL rodando e credenciais válidas.
 O script usa:
 host: localhost
 user: root
-password: tapcv1980
+password: *******
 (Altere no código se necessário.)
 3️⃣ Execute o programa
 python nome_do_arquivo.py
