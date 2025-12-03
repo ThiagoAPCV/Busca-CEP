@@ -1,6 +1,6 @@
 # Busca-CEP
 📦 Sistema de Consulta de CEP com API ViaCEP + MySQL
-Projeto desenvolvido como exercício do Bolsa Futuro Digital — SOFTEX, focado em:
+Projeto desenvolvido como exercício do projeto Bolsa Futuro Digital — SOFTEX, focado em:
 ✔ Utilização de API em Python
 ✔ Validação de entrada do usuário
 ✔ Persistência de dados em banco de dados relacional (MySQL)
@@ -26,7 +26,7 @@ ________________________________________
 🛠 Tecnologias Utilizadas
 •	Python 3
 •	API Pública ViaCEP
-•	MySQL / MariaDB
+•	MySQL
 •	Biblioteca Python:
 o	requests
 o	mysql-connector-python
@@ -54,7 +54,7 @@ user: root
 password: *******
 (Altere no código se necessário.)
 3️⃣ Execute o programa
-python nome_do_arquivo.py
+python buscarCEP.py
 ________________________________________
 📋 Menu Principal
 Ao iniciar, você verá:
